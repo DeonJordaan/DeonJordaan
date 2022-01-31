@@ -6,7 +6,7 @@ After completing some courses on HTML, CSS, JavaScript and React, I’m currentl
 
 Currently I'm looking for an internship position. I’m open to contributing to the community or a cause of some sort. If you need some help on a project, please do get in touch. My skills and knowledge are limited, but I am eager to learn!
 
-You can see some of my projects at www.deon.dev or reach me at deon.jordaan76@gmail.com.
+You can see some of my projects at www.deon.dev or reach me at hello@deon.dev.
 
 Thank you!
 
